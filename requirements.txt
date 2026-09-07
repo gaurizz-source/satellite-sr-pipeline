@@ -1,0 +1,7 @@
+duckdb
+datasets
+rasterio
+pystac-client
+shapely
+tqdm
+numpy
